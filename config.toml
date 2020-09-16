@@ -1,9 +1,16 @@
 baseURL = "https://horo.scope.cards/"
 languageCode = "en-us"
+defaultContentLanguage = "en"
+isMultilingual = false
 title = "Horoscope Cards"
 copyright = "© {year}"
 theme = "sam"
 publishDir = "docs"
+
+[params]
+    favicon = "postcard.ico"
+    homepage = "main"
+    footerText = "Horoscope Cards - Delivering astrology to your mailbox"
 
 [[params.mainMenu]]
     link = "/aquarius"
