@@ -1,0 +1,54 @@
+baseURL = "https://horo.scope.cards/"
+languageCode = "en-us"
+title = "Horoscope Cards"
+copyright = "© {year}"
+theme = "sam"
+publishDir = "docs"
+
+[[params.mainMenu]]
+    link = "/aquarius"
+    text = "aquarius"
+
+[[params.mainMenu]]
+    link = "/pisces"
+    text = "pisces"
+
+[[params.mainMenu]]
+    link = "/aries"
+    text = "aries"
+
+[[params.mainMenu]]
+    link = "/taurus"
+    text = "taurus"
+
+[[params.mainMenu]]
+    link = "/gemini"
+    text = "gemini"
+
+[[params.mainMenu]]
+    link = "/cancer"
+    text = "cancer"
+
+[[params.mainMenu]]
+    link = "/leo"
+    text = "leo"
+
+[[params.mainMenu]]
+    link = "/virgo"
+    text = "virgo"
+
+[[params.mainMenu]]
+    link = "/libra"
+    text = "libra"
+
+[[params.mainMenu]]
+    link = "/scorpio"
+    text = "scorpio"
+
+[[params.mainMenu]]
+    link = "/sagittarius"
+    text = "sagittarius"
+
+[[params.mainMenu]]
+    link = "/capricorn"
+    text = "capricorn"
