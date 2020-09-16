@@ -11,5 +11,113 @@
 	<atom:link href="https://horo.scope.cards/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Capricorn</title>
+      <link>https://horo.scope.cards/capricorn/</link>
+      <pubDate>Wed, 16 Sep 2020 08:23:50 -0500</pubDate>
+      
+      <guid>https://horo.scope.cards/capricorn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sagittarius</title>
+      <link>https://horo.scope.cards/sagittarius/</link>
+      <pubDate>Wed, 16 Sep 2020 08:23:46 -0500</pubDate>
+      
+      <guid>https://horo.scope.cards/sagittarius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scorpio</title>
+      <link>https://horo.scope.cards/scorpio/</link>
+      <pubDate>Wed, 16 Sep 2020 08:23:35 -0500</pubDate>
+      
+      <guid>https://horo.scope.cards/scorpio/</guid>
+      <description>Don&amp;rsquo;t @ me bro</description>
+    </item>
+    
+    <item>
+      <title>Libra</title>
+      <link>https://horo.scope.cards/libra/</link>
+      <pubDate>Wed, 16 Sep 2020 08:23:30 -0500</pubDate>
+      
+      <guid>https://horo.scope.cards/libra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virgo</title>
+      <link>https://horo.scope.cards/virgo/</link>
+      <pubDate>Wed, 16 Sep 2020 08:23:24 -0500</pubDate>
+      
+      <guid>https://horo.scope.cards/virgo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leo</title>
+      <link>https://horo.scope.cards/leo/</link>
+      <pubDate>Wed, 16 Sep 2020 08:23:20 -0500</pubDate>
+      
+      <guid>https://horo.scope.cards/leo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer</title>
+      <link>https://horo.scope.cards/cancer/</link>
+      <pubDate>Wed, 16 Sep 2020 08:23:14 -0500</pubDate>
+      
+      <guid>https://horo.scope.cards/cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gemini</title>
+      <link>https://horo.scope.cards/gemini/</link>
+      <pubDate>Wed, 16 Sep 2020 08:23:09 -0500</pubDate>
+      
+      <guid>https://horo.scope.cards/gemini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taurus</title>
+      <link>https://horo.scope.cards/taurus/</link>
+      <pubDate>Wed, 16 Sep 2020 08:22:56 -0500</pubDate>
+      
+      <guid>https://horo.scope.cards/taurus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aries</title>
+      <link>https://horo.scope.cards/aries/</link>
+      <pubDate>Wed, 16 Sep 2020 08:22:49 -0500</pubDate>
+      
+      <guid>https://horo.scope.cards/aries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pisces</title>
+      <link>https://horo.scope.cards/pisces/</link>
+      <pubDate>Wed, 16 Sep 2020 08:22:27 -0500</pubDate>
+      
+      <guid>https://horo.scope.cards/pisces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aquarius</title>
+      <link>https://horo.scope.cards/aquarius/</link>
+      <pubDate>Wed, 16 Sep 2020 08:22:12 -0500</pubDate>
+      
+      <guid>https://horo.scope.cards/aquarius/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
